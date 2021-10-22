@@ -1,0 +1,14 @@
+choropleth
+Force-directed
+Protovis
+brushing-and-linking
+II-cord
+flowmap
+graduated-symbol
+cartograms
+seriation
+sunburst
+icicle
+
+
+
