@@ -11,7 +11,3 @@ sunburst
 icicle
 index chart
 small multiples
-
-
-
-
