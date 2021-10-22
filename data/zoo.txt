@@ -1,5 +1,5 @@
 choropleth
-Force-directed
+Force-directed layout
 Protovis
 brushing-and-linking
 II-cord
@@ -9,6 +9,9 @@ cartograms
 seriation
 sunburst
 icicle
+index chart
+small multiples
+
 
 
 
